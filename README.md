@@ -1,2 +1,3 @@
-# MED_277
-Fall 2017 final project for UCSD MED 277 - Introduction to Biomedical Natural Language Processing
+# Using LSTMs to Elucidate Diagnoses from Clinical Notes
+### UCSD MED 277 - Intro to Biomedical Natural Language Processing
+#---
